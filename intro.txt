@@ -1,0 +1,7 @@
+This section will deal with programmer controlled memory allocation and release.
+
+In  this section we will learn how to create a structure on the heep.
+i.e Allocate memory from heap area and when we are finished release
+the memory back to the shared memory pool.
+
+
